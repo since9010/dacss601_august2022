@@ -67,6 +67,7 @@ MA<-filter(state2012, STATE=="MA")
 summary(MA)
 CA<-filter(state2012, STATE=="CA")
 summary(CA)
+
 ```
 
 ### Explain and Interpret
